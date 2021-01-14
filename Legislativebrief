@@ -1,0 +1,102 @@
+###Nation Under Attack
+Late in 2020 our Nation faced the worst attack possibly since Pearl Harbor. The Sunburst hack that devastated SolarWinds, allowed foreign adversaries access to government and private servers, including in Connecticut.
+As a Nation we must act or perish on a digital battlefield.
+
+As American combat pilots scream across the sky flying an F-35, the finest fighter jet in the world, they may have to engage a Chinese cousin, the J-20. The NSA reported sophisticated cyber security attacks allowed the adversaries in China to steal critical information bit by bit.
+The F-35 plans did not fall into Chinese hands by hacking a single computer or company. No, instead thousands of cyber-attacks were launched against the networks of small government contractors who moved plans and files, such as key radar information, back and forth between emails and servers.
+A lot of data. Government estimates based on plea deal of a convicted Chinese spy suggest that since 2008 China has stolen terabytes of data and schematics from the F-35 and F-22 stealth fighter jet programs.
+Chinese cyber criminals, working for the Chinese army, raided the computer systems of Boeing and many subcontractors to steal key national intelligence one bit of data at a time. Adversaries t then reassembled information from many sources. These efforts did not stop with the F-35. In fact, according to a Government Accountability Office:
+“The Department of Defense (DOD) faces tens of millions of attempted malicious cyber intrusions per year as adversaries seek to take advantage of the department’s reliance upon computer networks.”
+
+###Defense Industrial Base
+
+Our soldiers do not stand on the front line of cybercrime. More often the target for these attacks focuses on the 300,000 contractors who make up the Defense Industrial Base (DIB). According to the Cybersecurity & Infrastructure Security Agency, DIB is the “Industrial complex that enables research and development, as well as design, production, delivery, and maintenance of military weapons systems, subsystems, and components or parts, to meet U.S. military requirements.”
+Basically, if more companies in the DIB took steps to protect data, even just adding two factor or multi factor authentication many of the F-35 secrets would not have reached Chinese adversaries.
+
+Dangers of Cyber Crime
+
+According to the Federal Bureau of Investigation cybercrime involves cyber activity that threatens and compromises U.S. networks, steal financial and intellectual property, and put critical infrastructure at risk. These attacks put every sector of the economy under threat.
+In fact, according to the 2016 Global State of Information Security Survey cybercrime has increased 38% since 2014. The impacts of these attacks strain our economy. Victims of successful attacks have reported downtime (46%), loss of revenue (28%), reputational damage (26%), and loss of customers (22%). The threat of cybercrime costs private companies $400 billion every year and Juniper Research estimates this cost reached two trillion dollars last year.
+
+Cyber Warfare
+
+The attacks on the defense industrial database have escalated to the point of daily warfare fought on network systems across the globe. According to Ellen Lord, the undersecretary of defense for acquisition and sustainment, “It’s no secret that the U.S. is at cyber war every day.”
+The Honorable Ellen Lord continued, “Cybersecurity risks threaten the industrial base, national security, as well as partners and allies.” In fact, the Department of Defense estimated stolen data cost the DIB over 700 billion dollars in 2015. The Government Accountability Office reported DoD faces tens of millions of attempted malicious cyber intrusions per year as adversaries seek to take advantage of the department’s reliance upon computer networks.
+A private and public partnership must harden the networks across the DIB to ensure adversaries to not weaken our nation through cyber warfare. FBI Director Christopher Wray, in Senate testimony noted “An important part of fighting back against our foreign adversaries in the cyber realm is offense as well as defense.”
+In recognition that prior efforts to protect the DIB from cyberwarfare have failed the Office of the Under Secretary of Defense for Acquisition and Sustainment (OUSD(A&S)) has developed the Cybersecurity Maturity Model Certification (CMMC) framework. This new effort represents the largest cybersecurity public/private partnership in US History. Development of the CMMC involved  DoD stakeholders, University Affiliated Research Centers (UARCs), Federally Funded Research and Development Centers (FFRDCs), and the DIB sector.
+
+What is CMMC?
+
+In 2019 the Department of Defense announced the creation of the Cybersecurity Maturity Model Certification (CMMC) to replace the self-reporting of cyber hygiene that used to govern the DIB. The CMMC puts an end to self-assessment and requires a third-party assessor to verify the cybersecurity maturation level.
+All DoD contractors must comply with the Federal Acquisition Regulation (FAR) and the Defense Acquisition Regulation Supplemental (DFARS). These regulations require companies to meet specific security standards from the National Institutes Standard of Technology. If a company connects to the Government network, they must meet the NIST 800-53 standards. Companies not connected to a network were required to self-certify that they met the 110 controls, actions to increase cyber hygiene as laid out in NIST 800-171.
+The CMMC builds off of NIST 800-171 but also includes controls from other cybersecurity frameworks. Where CMMC differs is in both the maturation model and the role of third-party assessors. The CMMC defines 17 domains of cyber hygiene that are comprised of 43 capabilities. These capabilities get institutionalized through  practices across five levels of maturation.
+The Office of the Under Secretary of Defense for Acquisition and Sustainment defines maturation as, “set of characteristics, attributes, indicators, or patterns that represent capability and progression in a particular discipline.” The CMMC contains five levels of maturation.
+
+Maturity Level	Processes	Practices
+1	Performed	Basic Cyber Hygiene
+2	Documented	Intermediate Cyber Hygiene
+3	Managed	Good Cyber Hygiene
+4	Reviewed	Proactive
+5	Optimizing	Advanced /Progressive
+
+Third party assessors, who must complete coursework and obtain a certification will then measure what maturity level a contractor has met. An organization must demonstrate the institutionalization of the process and the utilization of the practices. Furthermore, the maturation model is cumulative, meaning a contractor must demonstrate they have met the practices and processes of lower levels as well.
+
+CMMC Timeline
+
+Development of the Cybersecurity maturity model has reached its final stages before going live. Groups of provisional assessors have completed course work. Licensed companies have entered an approved marketplace and as of November 2020 the licensed training partners awaited finalization of certification exams.
+By the year 2025 all DoD solicitations will require companies to hold CMMC certification. This means that over 300,00 companies and universities who touch sensitive data must rely on third party assessors to determine their maturation level. The more sensitive and mission ready the data the higher the level required.
+ 
+The Department of Defense has authorized the CMMC-AB Accreditation board to train the third party assessors who will examine the cyber security readiness of DIB manufacturers. 
+
+DFARS Interim Rule
+
+Since December 13, 2017 companies could lose DoD contracts due to lax cybersecurity. Yet until recently DFARS requires organizations to self-assess. Companies had to provide documentation on meeting the 110 controls of NIST 800-171a by collecting artifacts into a Body of Evidence.
+
+A Body of Evidence contained three major items. The first a Systems Security Plan describes a company’s infrastructure such as the hardware and software utilized. The Plan of Action and Milestones (POA&M) documented any shortcomings and described a remediation plan. A company would also submit their procedures and policies as part of the Body of Evidence.
+DFARS required a contractor's POA&M to get shared with the DoD. A major change in the CMMC is the removal of POA&M and having third-party rather than self-assessments.
+Yet with total compliance of the CMMC not required until 2025 how do we protect the trillions of dollars of data currently vulnerable across the DIB? In October of 2020 the Office of the Under Secretary of Defense for Acquisition and Sustainment published an interim rule as an update to Defense Acquisition Regulation Supplemental.
+This interim rule, now in effect, requires any Defense contractor who carries a 7012 clause in a DoD contract (a large percentage of Connecticut Manufacturers and small businesses) require a self-assessment against the NIST 171a methodology.
+ Even companies, who have no legal requirement, are being “asked” by Prime Contractors to upload their scores. 
+If Connecticut does not support our manufacturing community deal with cybersecurity our state risks losing billions of dollars.
+Impact on Connecticut Economy
+
+Connecticut ranks 8th in the Nation for Defense Spending and the 15 billion dollars our Manufacturing brings to the State represents 7.2% of the entire State GDP. In fact, Hartford is ranked as the Fifth in the nation as a municipality with a one hour radius in terms of spending. 
+
+It is estimated the total economic impact of Defense economy in terms of cumulative spending is over 100,000,000,000. As a state we thrive by providing our Armed forces the tools of National Security.
+
+As war moves from a kinetic battlefield to a cyber war bit exchange the Department of Defense will consider cyber hygiene as a key consideration when awarding bids to RFPs. In fact by 2025 all DoD contracts will require CMMC compliance.
+
+The consolidation in the Prime business community means access to subcontract manufacturers well beyond our state borders. Meaning if Connecticut companies do not prepare Raytheon will take their work to Atlanta and Dallas and General Dynamics will move Electric Boat subcontractors down to Norfolk.
+
+Yet for every small manufacturer in Connecticut a price point exists where the cost of cybersecurity compliance outweighs the revenue brought in from DoD work. The State legislature must not allow CEOs to face this difficult decision. An exit represents one less manufacture supporting 7% of the Connecticut economy. More importantly every company that leaves the ecosystem hurts our National Security readiness. 
+
+Many State organizations that handle federal Government data will need to achieve specific maturity levels. University of Connecticut and almost every State University handles Department of Defense data that would fall in the category of controlled unclassified information. This means the universities will require a maturation level of three. While privacy laws and student data protection mean the Universities, system is better prepared compliance will still represent a significant expense that the State Legislator must fund.
+
+The biggest cost to Connecticut economy could come in the form of lost opportunity on future Department of Defense awards.
+
+Pathfinder Awards
+To pilot the CMMC program the Department of Defense has released seven pathfinder awards. As part of the process the DoD will consider maturation and CMMC compliance for these contracts.
+
+Navy
+•	Integrated Common Processor
+•	F/A-18E/F Full Mod of the SBAR and Shut off Valve
+•	Yard services for the Arleigh Burke Class destroyer
+Air Force
+•	Mobility Air Force Tactical Data Links
+•	Consolidated Broadband Global Area Network Follow-On
+•	Azure Cloud Solution
+Missile Defense Agency
+•	Technical Advisory and Assistance Contract
+
+All seven of the awards will impact Connecticut manufacturers. More Pathfinder RFPs will follow. In fact the State Legislator needs to provide resources to ensure as many companies seek bids with DoD prime customers to bring the billions in Pathfinder dollars to Connecticut. This means providing economic development grants to support cybersecurity compliance. 
+
+The legislature should also coordinate efforts to ensure we have a coordinated effort to maximize returns. We need to let Connecticut’s story as the premier center of advanced manufacturing shine. We also need to tell the story of CMMC compliance. If not Raytheon, Boeing, and General Dynamic Electric Boat will use out of state contractors.
+
+The helicopters, planes, and submarines will get built. Whether this happens in Connecticut depends on the commitment of state Legislators to cyber security.
+
+Action Steps
+1.	State legislator should support a survey of manufacturing CyberSecurity readiness in the Connecticut manufacturing community and IT consulting firms.
+2.	Reprioritize economic development grants to focus on CyberSecurity
+3.	Provide grants for CMMC training for manufacturers
+4.	Encourage all manufacturers to have one Certified Professional on staff.
+5.	Create or fund  DIB CyberSecurity working groups
